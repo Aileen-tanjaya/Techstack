@@ -30,3 +30,6 @@ Local SEO berfokus pada optimisasi untuk hasil pencarian lokal, seperti menampil
 
 Optimisasi mobile adalah proses memastikan bahwa situs web dapat diakses dan berfungsi dengan baik pada perangkat mobile. Contohnya, menyediakan desain responsif yang menyesuaikan tata letak situs web dengan ukuran layar perangkat.
 
+**8. User Experience (Pengalaman Pengguna)**
+
+Pengalaman pengguna yang baik dapat meningkatkan peringkat situs web di hasil pencarian. Contohnya, menyediakan navigasi yang intuitif dan konten yang mudah dipahami.
