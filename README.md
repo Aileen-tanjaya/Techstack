@@ -1,5 +1,5 @@
-# Search engine optimization
-## Komponen search engine optizimation
+# Search Engine Optimization
+## Komponen Search Engine Optizimation
 Berikut adalah komponen dari search engine optizimation.
 
 **1. Keyword Research (Riset Kata Kunci)**
@@ -33,3 +33,4 @@ Optimisasi mobile adalah proses memastikan bahwa situs web dapat diakses dan ber
 **8. User Experience (Pengalaman Pengguna)**
 
 Pengalaman pengguna yang baik dapat meningkatkan peringkat situs web di hasil pencarian. Contohnya, menyediakan navigasi yang intuitif dan konten yang mudah dipahami.
+# Kelebihan dan Kekurangan Search Engine Optizimation
