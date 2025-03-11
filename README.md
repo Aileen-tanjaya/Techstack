@@ -40,4 +40,4 @@ Berikut adalah kelebihan dari search engine optizimation:
 Dengan menggunakan SEO, Brand Anda mendapatkan exposure yang lebih tinggi dibandingkan dengan tanpa penggunaan SEO. Penggunaan SEO meningkatkan Traffic sebesar 100% pada bulan pertama, dan meningkat secara stabil hingga di 6 bulan pertama meningkatkan Traffic sebesar 300%, namun hal ini juga selaras dengan optimasi website yang dilakukan.
 
 **2. Conversion Rate yang tinggi**
-Audience yang mencari produk melalui search engine memiliki intensi untuk melakukan pembelian, baik karena mereka memang butuh atau karena ada alasan lain. Dikutip dari[Hubspot}(https://cdn2.hubspot.net/hubfs/3476323/State%20of%20Inbound%202018%20Global%20Results.pdf)
+Audience yang mencari produk melalui search engine memiliki intensi untuk melakukan pembelian, baik karena mereka memang butuh atau karena ada alasan lain. Dikutip dari[Hubspot](https://cdn2.hubspot.net/hubfs/3476323/State%20of%20Inbound%202018%20Global%20Results.pdf)
