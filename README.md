@@ -37,7 +37,13 @@ Pengalaman pengguna yang baik dapat meningkatkan peringkat situs web di hasil pe
 Berikut adalah kelebihan dari search engine optizimation:
 
 **1. Peningkatan Traffic**
+
 Dengan menggunakan SEO, Brand Anda mendapatkan exposure yang lebih tinggi dibandingkan dengan tanpa penggunaan SEO. Penggunaan SEO meningkatkan Traffic sebesar 100% pada bulan pertama, dan meningkat secara stabil hingga di 6 bulan pertama meningkatkan Traffic sebesar 300%, namun hal ini juga selaras dengan optimasi website yang dilakukan.
 
 **2. Conversion Rate yang tinggi**
-Audience yang mencari produk melalui search engine memiliki intensi untuk melakukan pembelian, baik karena mereka memang butuh atau karena ada alasan lain. Dikutip dari[Hubspot](https://cdn2.hubspot.net/hubfs/3476323/State%20of%20Inbound%202018%20Global%20Results.pdf)
+
+Audience yang mencari produk melalui search engine memiliki intensi untuk melakukan pembelian, baik karena mereka memang butuh atau karena ada alasan lain. Dikutip dari [Hubspot](https://cdn2.hubspot.net/hubfs/3476323/State%20of%20Inbound%202018%20Global%20Results.pdf), 60% marketer merasa bahwa penggunaan SEO dan strategi inbound lain (blog content, dsb) memberikan hasil lead berkualitas yang paling tinggi.
+
+**3. Meningkatkan Kredibilitas Brand**
+
+Ketika website Anda mendapatkan rank yang tinggi dan langsung terlihat ketika audience mencari produk yang diinginkan memberikan dampak psikologis bahwa brand Anda memang terpercaya dan memberikan kredibilitas yang cukup tinggi, terlebih ketika produk yang ditawarkan memang sesuai dengan yang audience cari.
