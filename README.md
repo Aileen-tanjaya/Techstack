@@ -47,3 +47,25 @@ Audience yang mencari produk melalui search engine memiliki intensi untuk melaku
 **3. Meningkatkan Kredibilitas Brand**
 
 Ketika website Anda mendapatkan rank yang tinggi dan langsung terlihat ketika audience mencari produk yang diinginkan memberikan dampak psikologis bahwa brand Anda memang terpercaya dan memberikan kredibilitas yang cukup tinggi, terlebih ketika produk yang ditawarkan memang sesuai dengan yang audience cari.
+
+**4. Meningkatkan Kredibilitas Brand**
+
+Ketika Anda melakukan optimasi untuk web Anda, Anda tidak hanya meningkatkan Search Rank pada Search Engine, tapi juga harus membuat website tersebut ramah pengguna. Website yang teroptimasi biasanya akan ramah pengguna dan beberapa faktor seperti website dengan navigasi yang jelas, waktu loading website yang cukup cepat, dan konten yang berkualitas sangat berpengaruh pada kenyamanan pengguna.
+
+Berikut adalah kekurangane dari search engine optizimation:
+
+**1. Waktu yang Lama**
+
+Penggunaan SEO dapat menghabiskan waktu bulanan bahkan hingga tahunan untuk mendapatkan peringkat yang cukup bagus pada search engine. Waktu yang lama ini menjadi permasalahan bagi beberapa marketer yang butuh hasil dengan cepat. selain butuh waktu yang lama perlu adanya konsistensi dalam maintenance SEO agar peringkat kata kunci stabil atau terus meningkat pada search engine.
+
+**2. Kompetisi yang tinggi**
+
+Brand Anda bukan satu-satunya yang menggunakan SEO sebagai strategi bisnisnya. Ketika Anda menggunakan SEO, besar kemungkinan Anda akan bersaing dengan brand-brand lain yang menjual produk yang masih berkaitan dengan keyword audiens, terlebih apabila produk yang Anda jual merupakan produk yang banyak orang cari.
+
+**3. Algoritma yang Selalu Berubah**
+
+Google melakukan update algoritmanya selama beberapa kali dalam satu tahun, sehingga marketer membutuhkan update secara berkala karena strategi yang menghasilkan performa yang bagus bisa saja menjadi tidak perform ketika algoritma baru diaplikasikan. 
+
+**4. Waktu yang Lama**
+
+Selain karena algoritma yang sering di update, sehingga marketer harus up-to-date agar strateginya bisa berjalan dengan baik, ada banyak aspek dari SEO yang harus diperhatikan oleh marketer. SEO bukan hanya tentang menulis, tapi juga menyesuaikan agar tulisan tersebut bisa relate dengan search engine. 
