@@ -91,4 +91,8 @@ Nike adalah salah satu perusahaan yang punya merek dan toko e-commerce yang suks
 
 **2. Starbucks**
 
-Starbucks adalah Perusahaan Kopi yang sangat digemari, namanya dikenal luas karena berbagai alasan, salah satunya adalah fokus mereka pada pengguna dan bagaimana membingkai produk mereka melalui gambar dan merek.
+Starbucks adalah Perusahaan Kopi yang sangat digemari, namanya dikenal luas karena berbagai alasan, salah satunya adalah fokus mereka pada pengguna dan bagaimana membingkai produk mereka melalui gambar dan merek. Gambar-gambar ini membantu SEO pada halaman, karena Google memberi penghargaan kepada situs yang memiliki gambar yang cepat dan terintegrasi dengan baik. Selain itu, karena konten tersebut secara alami mengarahkan pengguna untuk melakukan konversi, mereka mendapatkan poin bonus tambahan untuk peringkat mereka.
+
+**3. Canva**
+
+Canva memberikan satu contoh bagaimana bisnis dapat menggunakan SEO terprogram dalam strategi mereka. Canva menggunakan SEO terprogram untuk menghasilkan konten untuk berbagai templat, seperti Kartu nama, Riwayat Hidup, Situs web dan lain sebagainya.
