@@ -70,7 +70,7 @@ Google melakukan update algoritmanya selama beberapa kali dalam satu tahun, sehi
 
 Selain karena algoritma yang sering di update, sehingga marketer harus up-to-date agar strateginya bisa berjalan dengan baik, ada banyak aspek dari SEO yang harus diperhatikan oleh marketer. SEO bukan hanya tentang menulis, tapi juga menyesuaikan agar tulisan tersebut bisa relate dengan search engine. 
 
-## PERKEMBANGAN SEO DI TAHUN 2025
+## Perkembangan Search Engine Optimization di tahun 2025
 **1. Pencarian Suara yang Meningkat**
 
 Pencarian suara telah menjadi semakin populer dengan kemajuan teknologi seperti asisten virtual (misalnya, Google Assistant, Siri, dan Alexa). Di tahun 2025, diperkirakan bahwa lebih banyak pengguna akan beralih ke pencarian suara. Ini berarti bahwa konten harus dioptimalkan untuk pertanyaan berbasis suara.
@@ -82,3 +82,13 @@ Kecerdasan buatan semakin berperan dalam SEO. Di tahun 2025, kita akan melihat l
 **3. Penggunaan SEO Dalam Konten Video**
 
 Video telah menjadi salah satu format konten yang paling efektif. Dengan meningkatnya penggunaan platform seperti YouTube dan TikTok, video SEO akan menjadi tren utama di tahun 2025.
+
+## Perusahaan/Web yang menggunakan Search Engine Optimization
+
+**1. Nike**
+
+Nike adalah salah satu perusahaan yang punya merek dan toko e-commerce yang sukses, SEO mereka berfokus pada upaya untuk mendatangkan orang ke situs web perusahaan mereka. Nike juga mengintegrasikan kata kunci secara efektif pada halaman produk mereka untuk bersaing dengan merek pesaing lainnya. Contohnya, mereka menggunakan deskripsi yang jelas untuk menguraikan setiap produk mereka dan memasukkan kata kunci terkait ke dalam halaman tersebut. Selain itu, mereka juga mencantumkan nama produk mereka di URL, judul dan isi teks. Selain itu, mereka memiliki artikel informasional dan bagian FAQ tentang produk mereka yang bertujuan untuk meningkatkan visibilitas mereka di mesin pencari.
+
+**2. Starbucks**
+
+Starbucks adalah Perusahaan Kopi yang sangat digemari, namanya dikenal luas karena berbagai alasan, salah satunya adalah fokus mereka pada pengguna dan bagaimana membingkai produk mereka melalui gambar dan merek.
