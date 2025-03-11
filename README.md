@@ -97,8 +97,7 @@ Starbucks adalah Perusahaan Kopi yang sangat digemari, namanya dikenal luas kare
 
 Canva memberikan satu contoh bagaimana bisnis dapat menggunakan SEO terprogram dalam strategi mereka. Canva menggunakan SEO terprogram untuk menghasilkan konten untuk berbagai templat, seperti Kartu nama, Riwayat Hidup, Situs web dan lain sebagainya.
 
-
-Sumber Data:
+# Sumber Data:
 
 https://blog.myskill.id/istilah-dan-tutorial/komponen-penting-di-bidang-search-engine-optimization-seo/ 
 
