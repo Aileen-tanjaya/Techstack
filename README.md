@@ -105,5 +105,4 @@ https://pakarjasa.co.id/blog/kelebihan-dan-kekurangan-seo/
 
 https://www.seo.com/blog/seo-examples/
 
-https://www.seo.com/blog/seo-examples/
-
+https://www.rumahmedia.com/insights/tren-seo-di-tahun-2025-diprediksi-menjadi-titik-balik-penting-dunia-seo
