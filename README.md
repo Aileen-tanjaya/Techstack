@@ -52,7 +52,7 @@ Ketika website Anda mendapatkan rank yang tinggi dan langsung terlihat ketika au
 
 Ketika Anda melakukan optimasi untuk web Anda, Anda tidak hanya meningkatkan Search Rank pada Search Engine, tapi juga harus membuat website tersebut ramah pengguna. Website yang teroptimasi biasanya akan ramah pengguna dan beberapa faktor seperti website dengan navigasi yang jelas, waktu loading website yang cukup cepat, dan konten yang berkualitas sangat berpengaruh pada kenyamanan pengguna.
 
-Berikut adalah kekurangane dari search engine optizimation:
+Berikut adalah kekurangan dari search engine optizimation:
 
 **1. Waktu yang Lama**
 
