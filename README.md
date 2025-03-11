@@ -91,7 +91,7 @@ Nike adalah salah satu perusahaan yang punya merek dan toko e-commerce yang suks
 
 **2. Starbucks**
 
-Starbucks adalah Perusahaan Kopi yang sangat digemari, namanya dikenal luas karena berbagai alasan, salah satunya adalah fokus mereka pada pengguna dan bagaimana membingkai produk mereka melalui gambar dan merek. Starbucks juga menampilkan gambar produk mereka di website, gambar-gambar ini membantu SEO pada halaman, sehingga Google memberi penghargaan kepada situs yang memiliki gambar yang cepat dan terintegrasi dengan baik. Selain itu, karena konten tersebut secara alami mengarahkan pengguna untuk melakukan konversi, mereka mendapatkan poin bonus tambahan untuk peringkat mereka.
+Starbucks adalah Perusahaan Kopi yang sangat digemari, namanya dikenal luas karena berbagai alasan, salah satunya adalah fokus mereka pada pengguna dan bagaimana membingkai produk mereka melalui gambar dan merek. Starbucks juga menampilkan gambar produk mereka di website, gambar-gambar ini membantu SEO pada halaman, sehingga Google memberi penghargaan kepada situs yang memiliki gambar yang cepat dan terintegrasi dengan baik. Selain itu, karena konten tersebut secara alami mengarahkan pengguna untuk melakukan konversi, mereka mendapatkan poin bonus tambahan untuk peringkat mereka..
 
 **3. Canva**
 
