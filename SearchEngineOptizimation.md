@@ -1,5 +1,8 @@
 # Search Engine Optimization
 
+![Mind Map SEO](https://github.com/user-attachments/assets/42f784fe-722f-46a1-a2e5-f77777b0beb3)
+
+
 ## Komponen Search Engine Optizimation
 Berikut adalah komponen dari search engine optizimation:
 
